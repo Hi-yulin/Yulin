@@ -7,7 +7,8 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+先运行npm run serve
+然后运行node socket.js
 ```
 
 ### Compiles and minifies for production
