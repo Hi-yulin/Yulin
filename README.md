@@ -1,4 +1,7 @@
 # multiscreen
+```
+vue，node,webpack实现跨设备控制
+```
 
 ## Project setup
 ```
